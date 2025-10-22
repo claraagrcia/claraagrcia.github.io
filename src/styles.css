@@ -1,0 +1,16 @@
+:root{--accent:#7c3aed;--bg:#fff;--muted:#666}
+*{box-sizing:border-box}
+body{font-family:Inter,system-ui,Arial,sans-serif;margin:0;background:var(--bg);color:#111}
+.site-header{background:#f8f8f8;padding:12px 20px;border-bottom:1px solid #eee}
+.site-header nav{display:flex;gap:12px}
+.site-header a{color:var(--accent);text-decoration:none}
+.container{max-width:900px;padding:28px;margin:0 auto}
+.about h1{margin:0}
+.cv-section{margin-top:18px}
+.cv-item{margin-bottom:12px}
+.skills{display:flex;gap:8px;flex-wrap:wrap;list-style:none;padding:0}
+.skills li{background:#f1f1f1;padding:6px 10px;border-radius:6px}
+.projects{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px}
+.project{border:1px solid #eee;padding:12px;border-radius:8px}
+.project a{display:inline-block;margin-right:8px;color:var(--accent)}
+.site-footer{padding:20px;text-align:center;color:var(--muted)}

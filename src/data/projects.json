@@ -1,0 +1,9 @@
+[
+  {
+    "title": "Example Project",
+    "tech": ["React", "Vite"],
+    "description": "A sample project to showcase structure.",
+    "link": "https://example.com",
+    "repo": "https://github.com/username/example"
+  }
+]

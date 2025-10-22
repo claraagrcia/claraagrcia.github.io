@@ -1,0 +1,34 @@
+{
+  "name": "Clara",
+  "tagline": "Frontend Developer & Designer",
+  "about": "I'm Clarita, a frontend developer who builds accessible and delightful web experiences.",
+  "experience": [
+    {
+      "role": "Frontend Developer",
+      "company": "Acme Co.",
+      "dates": "2021 - Present",
+      "description": "Worked on web apps using React, improved performance and accessibility."
+    }
+  ],
+  "education": [
+    {
+      "degree": "BSc Computer Science",
+      "institution": "University",
+      "dates": "2016 - 2020"
+    }
+  ],
+  "skills": [
+    "React",
+    "JavaScript",
+    "HTML",
+    "CSS"
+  ],
+  "languages": [
+    "English (fluent)",
+    "Spanish (native)"
+  ],
+  "contact": {
+    "email": "claraagrcia@gmail.com",
+    "website": "https://github.com/claraagrcia"
+  }
+}

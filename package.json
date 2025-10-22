@@ -1,0 +1,28 @@
+{
+  "name": "portfolio-clarita",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Basic React CV and portfolio scaffold",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.1",
+    "@chakra-ui/react": "^2.8.0",
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "framer-motion": "^10.12.16"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "gh-pages": "^5.0.0",
+    "@vitejs/plugin-react": "^4.0.0"
+  }
+}
+
